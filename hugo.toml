@@ -1,4 +1,45 @@
 baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+defaultContentLanguage = "en"
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+title = 'FishPlease - Fish Sitting Services'
 theme = 'hugo-scroll'
+enableEmoji = true
+
+[params]
+    favicon = "images/favicon.png"
+    title = "FishPlease - Fish Sitting Services"
+    description = "Professional fish sitting and aquarium care while you're away"
+    copyright = "© FishPlease"
+    hidedesignbyline = false
+    invertSectionColors = false
+
+    [params.footer]
+    showContactIcons = true
+    showFooterLinks = false
+
+    [params.meta]
+        keywords = "fish sitting, fish sitter, aquarium care, pet sitting, fish care"
+
+    [[params.contacts]]
+        label = "email"
+        value = "hello@fishplease.com"
+        url = "mailto:hello@fishplease.com"
+        icon = "fa fa-envelope"
+
+    [[params.contacts]]
+        label = "phone"
+        value = "+1 (555) 347-4744"
+        url = "tel:+15553474744"
+        icon = "fa fa-phone"
+
+    [[params.contacts]]
+        label = "Instagram"
+        value = "@fishplease"
+        url = "https://instagram.com"
+        icon = "fa-brands fa-instagram"
+
+[languages]
+  [languages.en]
+    weight = 10
+    languageName = "English"
+    contentDir = "content/en"
