@@ -12,6 +12,7 @@ enableEmoji = true
     copyright = "© FishPlease"
     hidedesignbyline = false
     invertSectionColors = false
+    title_guard = true
 
     [params.footer]
     showContactIcons = true
