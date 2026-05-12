@@ -1,14 +1,12 @@
 ---
-title: "About Us"
+title: "About Me"
 weight: 3
 header_menu: true
 ---
 
-FishPlease was started by two lifelong aquarium hobbyists who were frustrated by the lack of good fish care options whenever they travelled. Dog sitters are everywhere — but who looks after your reef tank?
+FishPlease was started by an aquarium hobbyists that wanted to go on a holiday but didn't find anybody to watch their fish. By the lack of good fish care options whenever they travelled. Dog and cat sitters are everywhere — but who looks after your reef tank?
 
-We bring years of hands-on experience with freshwater, planted, brackish, and saltwater setups. Between us we've kept everything from nano shrimp tanks to 400-litre African cichlid displays.
-
-**We are based in Amsterdam** and currently serve the greater Amsterdam area. New locations coming soon.
+**We are based in The Hague** and also server places like Voorburg en Rijswijk.
 
 ---
 
