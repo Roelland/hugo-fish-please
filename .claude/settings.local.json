@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /home/roel/Documents/Hugo/fishplease/content/en/homepage)",
+      "Bash(mkdir -p /home/roel/Documents/Hugo/fishplease/layouts/partials)",
+      "Bash(git commit -m ' *)"
+    ],
+    "additionalDirectories": [
+      "/home/roel/Documents/Hugo/fishplease/content/en",
+      "/home/roel/Documents/Hugo/fishplease/layouts"
+    ]
+  }
+}

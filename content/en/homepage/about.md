@@ -4,7 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-FishPlease was started by an aquarium hobbyists that wanted to go on a holiday but didn't find anybody to watch their fish. By the lack of good fish care options whenever they travelled. Dog and cat sitters are everywhere — but who looks after your reef tank?
+_Fish, Please_ was started by an aquarium hobbyists that wanted to go on a holiday but didn't find anybody to watch their fish. By the lack of good fish care options whenever they travelled. Dog and cat sitters are everywhere — but who looks after your reef tank?
 
 **We are based in The Hague** and also server places like Voorburg en Rijswijk.
 

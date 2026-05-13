@@ -8,10 +8,10 @@ Simple, transparent pricing. No hidden costs.
 
 | Plan | Visits per day | Duration | Price |
 |---|---|---|---|
-| **Weekend** | 1× | up to 3 days | €25 / day |
-| **Week Away** | 1× | 4–10 days | €22 / day |
-| **Extended** | 1× | 11+ days | €19 / day |
-| **Reef & Saltwater** | 2× | any duration | €35 / day |
+| **Weekend** | 1× | up to 3 days | €20 / day |
+| **Week Away** | 1× | 4–10 days | €18 / day |
+| **Extended** | 1× | 11+ days | €17 / day |
+| **Reef & Saltwater** | 2× | any duration | €30 / day |
 
 **What's always included:** feeding, equipment check, health monitoring, photo update after each visit.
 
