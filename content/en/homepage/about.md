@@ -4,15 +4,15 @@ weight: 3
 header_menu: true
 ---
 
-_Fish, Please_ was started by an aquarium hobbyists that wanted to go on a holiday but didn't find anybody to watch their fish. By the lack of good fish care options whenever they travelled. Dog and cat sitters are everywhere — but who looks after your reef tank?
+_Fish, Please_ was started by myself, Valerie, a lifelong animal lover and aquarium enthusiast in The Hague. I started Fish Please when I wanted to go on a holiday but couldn't find anybody to watch my fish. Dog and cat sitters are everywhere — but who looks after your reef tank? Even with an autofeeder it is nice to know that someone is checking in on your fish friends. 
 
-**We are based in The Hague** and also server places like Voorburg en Rijswijk.
+**I am based in The Hague** and also server places like Voorburg en Rijswijk.
 
 ---
 
-#### Our values
+#### Fish values
 
 - **Fish first** — your tank's wellbeing always comes before convenience.
-- **Transparency** — you get a photo update after every single visit.
+- **Transparency** — you get photo updates after every single visit.
 - **No surprises** — fixed prices, clear communication, no hidden fees.
-- **Passion** — we genuinely love aquariums. This is not just a job.
+- **Passion** — I genuinely love aquariums and would love to see your setup.
