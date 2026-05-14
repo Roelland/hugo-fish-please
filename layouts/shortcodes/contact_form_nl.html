@@ -1,3 +1,10 @@
+<style>
+  .tank-size-input { position:absolute; opacity:0; width:0; height:0; }
+  .tank-size-btn { padding:0.5rem 1.2rem; border:2px solid #ccc; border-radius:6px; cursor:pointer; font-size:inherit; background:var(--section-light-bg-color); color:var(--section-light-text-color); transition:all 0.2s; }
+  .tank-size-btn:hover { border-color:var(--highlight); }
+  .tank-size-input:checked + .tank-size-btn { border-color:var(--highlight); background:var(--highlight); color:var(--highlight-contrast); }
+</style>
+
 <div data-fs-success hidden style="color:#37501a; background:#d4edda; border:1px solid #86c440; padding:1rem; border-radius:6px; margin-bottom:1rem;">
   Bedankt! Je bericht is verstuurd. Ik neem snel contact met je op.
 </div>
@@ -37,6 +44,18 @@
       </label>
     </div>
     <span data-fs-error="fish_type" style="color:#721c24;"></span>
+  </div>
+
+  <div>
+    <label style="display:block; margin-bottom:0.3rem; font-weight:bold;">Grootte aquarium</label>
+    <div style="display:flex; gap:0.6rem; flex-wrap:wrap;">
+      <input type="radio" class="tank-size-input" id="nl-size-bowl" name="tank_size" value="Kom" required />
+      <label for="nl-size-bowl" class="tank-size-btn">🫙 Kom</label>
+      <input type="radio" class="tank-size-input" id="nl-size-aquarium" name="tank_size" value="Aquarium" />
+      <label for="nl-size-aquarium" class="tank-size-btn">🐠 Aquarium</label>
+      <input type="radio" class="tank-size-input" id="nl-size-big" name="tank_size" value="Groot aquarium" />
+      <label for="nl-size-big" class="tank-size-btn">🪸 Groot aquarium</label>
+    </div>
   </div>
 
   <div>
