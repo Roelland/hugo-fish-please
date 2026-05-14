@@ -12,9 +12,9 @@ header_menu: true
 
 **What's always included:** feeding, equipment check, health monitoring, photo update after each visit.
 
-**Water testing** (for stays 5+ days) is included at no extra charge.
+ **Water testing** (for stays 5+ days) is included at no extra charge.
 
-**Travel surcharge** may apply for locations more than 15 km from The Hague city centre. We can confirm this when you book.
+**Travel surcharge** a small price for locations more than 5 km from The Hague city centre. We can confirm this when you book.
 
 ---
 
