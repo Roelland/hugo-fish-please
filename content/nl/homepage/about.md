@@ -15,4 +15,4 @@ _Feed My Fish_ is opgericht door mijzelf, Valerie, een groot dierenvriend met ee
 - **Vissen zijn prio** — het welzijn van jouw aquarium staat altijd voorop.
 - **Zo helder als het water** — je ontvangt foto-updates na elk bezoek.
 - **Geen verrassingen** — vaste prijzen, duidelijke communicatie, geen verborgen kosten.
-- **Plezeier** — ik hou oprecht van aquariums en zie jouw setup graag!
+- **Plezier** — ik hou oprecht van aquariums en zie jouw setup graag!
