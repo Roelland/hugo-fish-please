@@ -21,7 +21,7 @@ enableEmoji = true
     showFooterLinks = false
 
     [params.meta]
-        keywords = "fish sitting, fish sitter, aquarium care, pet sitting, fish care"
+        keywords = "fish sitting The Hague, fish sitter Den Haag, aquarium care The Hague, fish pet sitting, aquarium sitting Netherlands, goldfish care, reef tank sitting, fish sitting Voorburg, fish sitting Rijswijk"
 
     [[params.contacts]]
         label = "Instagram"
@@ -34,10 +34,17 @@ enableEmoji = true
     weight = 10
     languageName = "EN"
     contentDir = "content/en"
+    title = "Feed My Fish - Fish Sitting in The Hague"
+    [languages.en.params]
+      description = "Professional fish sitting and aquarium care in The Hague. From a goldfish bowl to a full reef tank — I look after your fish while you're away. Serving The Hague, Voorburg and Rijswijk."
+
   [languages.nl]
     weight = 20
     languageName = "NL"
     contentDir = "content/nl"
+    title = "Feed My Fish - Vis Oppas Den Haag"
+    [languages.nl.params]
+      description = "Professionele vis oppas en aquarium verzorging in Den Haag. Van een goudviskom tot een volledig rifaquarium — ik pas op jouw vissen terwijl jij weg bent. Actief in Den Haag, Voorburg en Rijswijk."
   [languages.fish]
     weight = 30
     languageName = "🐟"
