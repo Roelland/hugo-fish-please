@@ -32,9 +32,9 @@ enableEmoji = true
 [languages]
   [languages.en]
     weight = 10
-    languageName = "English"
+    languageName = "EN"
     contentDir = "content/en"
   [languages.nl]
     weight = 20
-    languageName = "Nederlands"
+    languageName = "NL"
     contentDir = "content/nl"
