@@ -1,15 +1,15 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://www.feedmy.fish'
 defaultContentLanguage = "en"
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
-title = 'FishPlease - Fish Sitting Services'
+title = 'Feed My Fish - Fish Sitting Services'
 theme = 'hugo-scroll'
 enableEmoji = true
 
 [params]
     favicon = "images/favicon.png"
-    title = "FishPlease - Fish Sitting Services"
+    title = "Feed My Fish - Fish Sitting Services"
     description = "Professional fish sitting and aquarium care while you're away"
-    copyright = "© FishPlease"
+    copyright = "© Feed My Fish"
     hidedesignbyline = false
     invertSectionColors = false
     title_guard = true
@@ -32,3 +32,7 @@ enableEmoji = true
     weight = 10
     languageName = "English"
     contentDir = "content/en"
+  [languages.nl]
+    weight = 20
+    languageName = "Nederlands"
+    contentDir = "content/nl"
