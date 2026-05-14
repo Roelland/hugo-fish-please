@@ -13,6 +13,7 @@ enableEmoji = true
     hidedesignbyline = false
     invertSectionColors = false
     title_guard = true
+    language_menu = true
 
     [params.footer]
     showContactIcons = true
