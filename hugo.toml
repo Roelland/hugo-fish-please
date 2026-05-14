@@ -6,7 +6,7 @@ theme = 'hugo-scroll'
 enableEmoji = true
 
 [params]
-    favicon = "images/favicon.png"
+    favicon = "images/favicon.svg"
     title = "Feed My Fish - Fish Sitting Services"
     description = "Professional fish sitting and aquarium care while you're away"
     copyright = "© Feed My Fish"
