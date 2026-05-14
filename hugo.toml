@@ -22,18 +22,6 @@ enableEmoji = true
         keywords = "fish sitting, fish sitter, aquarium care, pet sitting, fish care"
 
     [[params.contacts]]
-        label = "email"
-        value = "hello@fishplease.com"
-        url = "mailto:hello@fishplease.com"
-        icon = "fa fa-envelope"
-
-    [[params.contacts]]
-        label = "phone"
-        value = "+1 (555) 347-4744"
-        url = "tel:+15553474744"
-        icon = "fa fa-phone"
-
-    [[params.contacts]]
         label = "Instagram"
         value = "@fishplease"
         url = "https://instagram.com"

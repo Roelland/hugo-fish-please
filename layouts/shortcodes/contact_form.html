@@ -1,0 +1,40 @@
+<div data-fs-success style="display:none; color:#37501a; background:#d4edda; border:1px solid #86c440; padding:1rem; border-radius:6px; margin-bottom:1rem;">
+  Thanks! Your message has been sent. I'll get back to you soon.
+</div>
+<div data-fs-error style="display:none; color:#721c24; background:#f8d7da; border:1px solid #f5c6cb; padding:1rem; border-radius:6px; margin-bottom:1rem;"></div>
+
+<form id="contact-form" style="display:flex; flex-direction:column; gap:1rem; max-width:500px;">
+
+  <div>
+    <label for="contact-name" style="display:block; margin-bottom:0.3rem; font-weight:bold;">Name</label>
+    <input type="text" id="contact-name" name="name" required data-fs-field
+      style="width:100%; padding:0.6rem 0.8rem; border:1px solid #ccc; border-radius:6px; font-size:1rem; background:var(--section-light-bg-color); color:var(--section-light-text-color); box-sizing:border-box;" />
+    <span data-fs-error="name" style="color:#721c24; font-size:0.9rem;"></span>
+  </div>
+
+  <div>
+    <label for="contact-email" style="display:block; margin-bottom:0.3rem; font-weight:bold;">Email</label>
+    <input type="email" id="contact-email" name="email" required data-fs-field
+      style="width:100%; padding:0.6rem 0.8rem; border:1px solid #ccc; border-radius:6px; font-size:1rem; background:var(--section-light-bg-color); color:var(--section-light-text-color); box-sizing:border-box;" />
+    <span data-fs-error="email" style="color:#721c24; font-size:0.9rem;"></span>
+  </div>
+
+  <div>
+    <label for="contact-message" style="display:block; margin-bottom:0.3rem; font-weight:bold;">Message</label>
+    <textarea id="contact-message" name="message" rows="5" required data-fs-field
+      style="width:100%; padding:0.6rem 0.8rem; border:1px solid #ccc; border-radius:6px; font-size:1rem; background:var(--section-light-bg-color); color:var(--section-light-text-color); resize:vertical; box-sizing:border-box;"></textarea>
+    <span data-fs-error="message" style="color:#721c24; font-size:0.9rem;"></span>
+  </div>
+
+  <button type="submit" data-fs-submit-btn
+    style="align-self:flex-start; padding:10px 28px; background:var(--highlight); color:var(--highlight-contrast); border:none; border-radius:6px; font-size:1rem; font-family:'Oswald', sans-serif; text-transform:uppercase; letter-spacing:1px; cursor:pointer;">
+    Send Message
+  </button>
+
+</form>
+
+<script>
+  window.formspree = window.formspree || function () { (formspree.q = formspree.q || []).push(arguments); };
+  formspree('initForm', { formElement: '#contact-form', formId: 'mgodbqrg' });
+</script>
+<script src="https://unpkg.com/@formspree/ajax@1" defer></script>
