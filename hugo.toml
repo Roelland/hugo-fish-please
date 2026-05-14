@@ -26,7 +26,7 @@ enableEmoji = true
     [[params.contacts]]
         label = "Instagram"
         value = "@fishplease_"
-        url = "https://instagram.com"
+        url = "https://instagram.com/feedmy.fish"
         icon = "fa-brands fa-instagram"
 
 [languages]
