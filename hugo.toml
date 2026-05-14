@@ -38,3 +38,7 @@ enableEmoji = true
     weight = 20
     languageName = "NL"
     contentDir = "content/nl"
+  [languages.fish]
+    weight = 30
+    languageName = "🐟"
+    contentDir = "content/fish"
