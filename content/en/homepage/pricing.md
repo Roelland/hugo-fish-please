@@ -6,9 +6,8 @@ header_menu: true
 
 | Plan | Visits per day | Price |
 |---|---|---|
-| **Single vist rate** | 1× | €15 / day |
+| **Single visit rate** | 1× | €15 / day |
 | **Double visit rate** | 2× | €20 / day |
-| **Reef & Saltwater** | 2× | €30 / day |
 
 **What's always included:** feeding, equipment check, health monitoring, photo update after each visit.
 

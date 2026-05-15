@@ -8,7 +8,6 @@ header_menu: true
 |---|---|---|
 | **Enkel bezoek** | 1× | €15 / dag |
 | **Dubbel bezoek** | 2× | €20 / dag |
-| **Rif & Zoutwater** | 2× | €30 / dag |
 
 **Altijd inbegrepen:** voeren, apparatuurcontrole, gezondheidsmonitoring, foto-update na elk bezoek.
 

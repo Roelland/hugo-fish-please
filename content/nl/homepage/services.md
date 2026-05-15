@@ -23,13 +23,13 @@ Je ontvangt foto's en/of video's van je aquarium na elk bezoek, zodat je weet da
 ---
 En ook extra diensten, zoals:
 
-### {{< icon name="plant-wilt" >}} Plant & Koraal Verzorging
+### {{< icon name="plant-wilt" >}} Plant Verzorging
 
-Bijsnijden van snelgroeiende planten, koralen voederen, aanvullen van verdampingswater.
+Bijsnijden van snelgroeiende planten, aanvullen van verdampingswater.
 
 ### {{< icon name="temperature-half" >}} Water & Apparatuur Controles
 
-Controle van watertemperatuur, filterfunctie, verwarmer, eiwitafschuimer (voor zoutwateropstellingen) en verlichtingsschema's.
+Controle van watertemperatuur, filterfunctie, verwarmer en verlichtingsschema's.
 
 ### {{< icon name="flask" >}} Watertest
 

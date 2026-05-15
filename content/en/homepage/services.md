@@ -24,13 +24,13 @@ You'll receive a photos and/or videos of your tank after every visit, so you can
 ---
 And also provided extra services, like:
 
-### {{< icon name="plant-wilt" >}} Plant & Coral Care
+### {{< icon name="plant-wilt" >}} Plant Care
 
-For example - trimming fast-growing plants, spot-feeding corals, topping off evaporation water.
+For example - trimming fast-growing plants, topping off evaporation water.
 
 ### {{< icon name="temperature-half" >}} Water & Equipment Checks
 
-Checking water temperature, filter function, heater, protein skimmer (for saltwater setups), and lighting schedules.
+Checking water temperature, filter function, heater and lighting schedules.
 
 ### {{< icon name="flask" >}} Water Testing
 
