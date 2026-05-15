@@ -4,18 +4,12 @@ weight: 4
 header_menu: true
 ---
 
-| Pakket | Bezoeken per dag | Prijs |
-|---|---|---|
-| **Enkel bezoek** | 1× | €15 / dag |
-| **Dubbel bezoek** | 2× | €20 / dag |
 
----
-
-| Dienst | Prijs | Hoe vaak |
+| Dienst | Incl. | Prijs | 
 |---|---|---|
-| **Maandelijks onderhoud** (waterwissel, filter, glas) | €35 – €50 | Terugkerend |
-| **Vakantie-oppas** | €10 – €20 / dag | Seizoensgebonden |
-| **Nieuw aquarium opstarten** (hulp bij inrichten) | €50 eenmalig | Incidenteel |
+| **Maandelijks onderhoud** | waterwissel, ph-check, filter, glas | €35 – €50 | 
+| **Vakantie-oppas** | 1 a 2 keer p. dag | €10 – €20 / dag |
+| **Nieuw aquarium opstarten** | hulp bij inrichten | €50 eenmalig |
 
 **Altijd inbegrepen:** voeren, apparatuurcontrole, gezondheidsmonitoring, foto-update na elk bezoek.
 

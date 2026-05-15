@@ -4,18 +4,11 @@ weight: 4
 header_menu: true
 ---
 
-| Plan | Visits per day | Price |
+| Service | Incl. | Price |
 |---|---|---|
-| **Single visit rate** | 1× | €15 / day |
-| **Double visit rate** | 2× | €20 / day |
-
----
-
-| Service | Price | Frequency |
-|---|---|---|
-| **Monthly maintenance** (water change, filter, glass) | €35 – €50 | Recurring |
-| **Holiday sitting** | €10 – €20 / day | Seasonal |
-| **New aquarium setup** (help with getting started) | €50 one-time | One-off |
+| **Monthly maintenance** | water change, pH check, filter, glass | €35 – €50 |
+| **Holiday sitting** | 1 to 2 visits per day | €10 – €20 / day |
+| **New aquarium setup** | help with getting started | €50 one-time |
 
 **What's always included:** feeding, equipment check, health monitoring, photo update after each visit.
 
